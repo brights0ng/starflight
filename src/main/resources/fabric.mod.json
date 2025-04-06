@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.stardance.Starflight"
+          "net.starflight.Starflight"
 		],
 		"fabric-datagen": [
-			"net.stardance.StarflightDataGenerator"
+          "net.starflight.StarflightDataGenerator"
 		]
 	},
 	"mixins": [

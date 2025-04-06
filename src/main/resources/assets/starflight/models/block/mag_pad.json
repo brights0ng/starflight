@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "front": "starflight:block/mag_pad_off",
+    "back": "starflight:block/mag_pad_bottom",
+    "side": "starflight:block/mag_pad_side",
+    "particle": "starflight:block/mag_pad_side"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "north", "rotation": 180},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#back", "cullface": "south"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east", "rotation": 270},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west", "rotation": 90},
+        "up": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "up", "rotation": 0},
+        "down": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "down", "rotation": 0}
+      }
+    }
+  ]
+}

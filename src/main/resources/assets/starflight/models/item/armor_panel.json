@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/armor_panel"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 0}, "model": "custom/armor_panel"}
+     
+    
+     
+     
+    ]
+   
+    
+   }

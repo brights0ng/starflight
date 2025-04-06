@@ -1,4 +1,4 @@
-package net.stardance.mixin;
+package net.starflight.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

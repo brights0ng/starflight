@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "by MasterZach1000",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hydogen_thruster",
-		"particle": "hydogen_thruster"
+		"0": "starflight:block/hydogen_thruster",
+		"particle": "starflight:block/hydogen_thruster"
 	},
 	"elements": [
 		{

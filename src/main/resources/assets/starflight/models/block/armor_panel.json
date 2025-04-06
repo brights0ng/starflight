@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "by cookiedogi",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "armor_panel_block"
+		"2": "starflight:block/armor_panel"
 	},
 	"elements": [
 		{

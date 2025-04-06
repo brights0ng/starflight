@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "starflight:block/hydrogen_thruster"
+    }
+  }
+}

@@ -1,9 +1,9 @@
-package net.stardance;
+package net.starflight;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.stardance.block.ModBlocks;
-import net.stardance.item.ModItems;
+import net.starflight.block.ModBlocks;
+import net.starflight.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
