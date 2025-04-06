@@ -1,11 +1,11 @@
 {
     "parent": "item/handheld",
     "textures": {
-     "layer0": "item/texturename"
+     "layer0": "item/hydrogen_thruster"
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data": 0}, "model": "custom/modelname"}
+     { "predicate": {"custom_model_data": 0}, "model": "custom/hydrogenthruster"}
      
     
      
