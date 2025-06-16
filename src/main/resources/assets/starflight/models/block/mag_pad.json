@@ -646,7 +646,7 @@
 	],
 	"groups": [
 		{
-			"name": "MagPad",
+			"name": "mag_pad",
 			"origin": [8, 15.875, 8],
 			"color": 0,
 			"children": [
